@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MOBDEV_E2P2_Magbutay</string>
+    <string name="result">result</string>
+    <string name="submit">submit</string>
+    <string name="password">password</string>
+    <string name="student_id">student_id</string>
+</resources>
